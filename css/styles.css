@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:'Merriweather', sans-serif;
+    color: #40514e;
+
+}
+
+h1{
+    font-size: 5.625rem;
+    font-family: 'sacramento',cursive;
+    margin: 50px auto 0 auto;
+    color:  #66bfbf;
+}
+h2{
+    font-size: 1.5rem;
+    color:  #66bfbf;
+    padding-bottom: 10px;
+    
+
+    
+}
+h3{
+    
+    color:  #66bfbf;
+
+    
+}
+div{
+    
+}
+
+p{
+    line-height: 1.7;
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+
+}
+
+.top-container{
+
+    background-color: rgb(213, 234, 233);
+    
+    padding: 20px;
+    padding-top: 100px;
+
+    position: relative;
+}
+.bottom-container{
+
+    
+}
+.middle-container{
+
+    margin: 100px 0;
+ 
+}
+
+
+
+.top-cloud{
+
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+
+    position:absolute;
+    left:300px;
+    
+}
+
+.profile-image{
+
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+  overflow: hidden;
+  background-color: blue;
+}
+
+.skills-image-1{
+    
+    width: 25%;
+    height: 180px;
+    border-radius: 100%;
+    overflow: hidden;
+    background-color: blue;
+    float: left;
+    margin-right: 30px;
+  }
+
+  .skills-image-2{
+    
+    width: 25%;
+    height: 180px;
+    border-radius: 100%;
+    overflow: hidden;
+    float: right;
+    margin-left: 30px;
+  }
+  
+  .skill-row{
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+  }
+.skill-text{
+
+   
+}
+  .intro{
+
+    width: 30%;
+    margin: auto;
+  }
+  .contact-message{
+
+    width: 40%;
+    margin: 40px auto 60px;
+  }
